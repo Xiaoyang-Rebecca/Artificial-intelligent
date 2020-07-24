@@ -8,6 +8,8 @@ Thanks for using reinforcement learning to solve PD world !
 
 Contact XiaoyangLi (xiaoyang.rebecca.li@gmail.com)
 
+- Collaborators: [Priyal Kulkarni
+](https://www.linkedin.com/in/priyal-kulkarni-1205/),[Sarthak Sharma](https://www.linkedin.com/in/sarthak-sharma-uh/)
 
 
 %%%%%%%%%%%%%%%%%%%%   Q_learning    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
